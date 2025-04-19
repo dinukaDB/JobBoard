@@ -31,8 +31,8 @@ A full-stack Job Listing application built with **Next.js 13 App Router**, **Tai
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/dinukaDB/job-board.git
-cd job-board
+git clone https://github.com/dinukaDB/JobBoard.git
+cd JobBoard
 ```
 ### 2. Install dependancies
 
