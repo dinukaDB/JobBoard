@@ -22,7 +22,7 @@ A full-stack Job Listing application built with **Next.js 13 App Router**, **Tai
 - **Backend**: API Routes (REST)
 - **Database**: PostgreSQL (Prisma ORM)
 - **Auth**: NextAuth.js
-- **Deployment**: Vercel / Railway (optional)
+- **Deployment**: Vercel / Github
 
 ---
 
@@ -63,3 +63,14 @@ Go to
 `/admin`
 - Only logged-in users with admin privileges can access this page.
 - **email = admin@gmail.com , password = admin**
+
+## Pages
+- `/signin` - Signin Page
+- `/` - Public Job listing page
+- `/admin` - Admin page
+
+## ✨ Upcoming Features
+- 🔍 Search and filters
+- 📬 Email notifications for job applicants
+- 🌐 Multilingual support
+- ✅ Admin roles and permissions
